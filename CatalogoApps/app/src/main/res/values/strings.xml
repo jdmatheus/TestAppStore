@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Store</string>
+    <string name="title_intro">Intro</string>
+    <string name="title_cats">Categories</string>
+    <string name="title_apps">Apps</string>
+    <string name="title_item_detail">App Detail</string>
+</resources>
